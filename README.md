@@ -1,12 +1,4 @@
----
-page_type: product feedback
-languages:
-- csharp
-products:
-- dotnet
-description: "Bugs, Feature Requests and Questions for the Azure Storage service"
-urlFragment: "update-this-to-unique-url-stub"
----
+
 
 # Welcome to Azure Storage Feedback
 
