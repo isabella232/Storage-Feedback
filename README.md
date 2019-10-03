@@ -6,7 +6,6 @@ This issues-only repository is a direct connection to the Azure Storage team. Pl
 - Bug
 - Feature Request
 - Question
-- Documentation Improvement
 
 Before raising an issue, consider browsing existing issues - someone may have already asked about your problem.
 
